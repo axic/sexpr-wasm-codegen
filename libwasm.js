@@ -16,4 +16,5 @@ var Ka=[Hi,Hi,kg,Hi,lg,Hi,mg,Hi,ng,Hi,og,Hi,pg,Hi,qg,Hi,rg,Hi,sg,Hi,tg,Hi,Je,Ne,
 
 
 
-
+// Manually added
+module.exports = { wasm: wasm, Module: Module }
