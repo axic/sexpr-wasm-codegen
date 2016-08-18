@@ -1,0 +1,26 @@
+{
+  "name": "sexpr-wasm-codegen",
+  "version": "0.0.0",
+  "description": "S-expressions to WebAssembly binary format converter",
+  "bin": "index.js",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "libwasm.js"
+    "libwasm.js.mem"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axic/sexpr-wasm-codegen.git"
+  },
+  "keywords": [
+    "webassembly",
+    "wasm"
+  ],
+  "author": "Alex Beregszaszi <alex@rtfs.hu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/axic/sexpr-wasm-codegen/issues"
+  },
+  "homepage": "https://github.com/axic/sexpr-wasm-codegen#readme"
+}
