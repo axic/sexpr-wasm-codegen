@@ -20,3 +20,5 @@ var Pa=[rn,rn,Vk,rn,Wk,rn,Xk,rn,Yk,rn,Zk,rn,_k,rn,$k,rn,al,rn,bl,rn,cl,rn,Me,Se,
 
 
 
+// Manually added
+module.exports = { wasm: wasm, Module: Module }
